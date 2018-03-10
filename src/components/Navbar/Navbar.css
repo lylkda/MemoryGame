@@ -1,0 +1,16 @@
+nav.navbar.navbar-default {
+  margin-bottom: 0;
+}
+
+a.navbar-brand{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.headtxt{
+  font-size: 30px;
+  color: white;
+}
+
+.navbar{
+}
